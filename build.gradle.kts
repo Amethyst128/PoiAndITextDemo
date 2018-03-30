@@ -30,6 +30,7 @@ dependencies {
     compile(kotlinModule("stdlib-jdk8", kotlin_version))
     compile("com.itextpdf", "itextpdf", "5.5.12")
     compile("com.itextpdf", "itext-asian", "5.2.0")
+    compile("org.apache.poi", "poi-ooxml", "3.17")
 }
 
 tasks.withType<KotlinCompile> {

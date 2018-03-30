@@ -3,7 +3,7 @@ package data
 /**
  * 数据类;用来填充表单模板数据
  *
- * @author dyoon
+ * @author
  * @date 2018-02-03
  */
 data class QuoteApproval(
